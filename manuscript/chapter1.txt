@@ -1,5 +1,0 @@
-# Chapter 1 - Small IT
-
-IT infrastructure is everywhere these days. Nearly every internet household has at least cable box or DSL to pipes
-network traffic to wireless router for consumption by its occupants. If SOHO owner that network connection itself is
-the lifeblood for conducting business via e-mail (still the killer internet app) or the web.

@@ -1,4 +1,6 @@
-# Chapter 2
+# Chapter 2 - TrueSight Pulse
+
+This chapter provides an overview of TrueSight Pulse the perfect monitoring solution for small IT.
 
 It was a **bold** and *italic* night!
 

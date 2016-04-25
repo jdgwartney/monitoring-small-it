@@ -1,16 +1,17 @@
 # TrueSight Pulse for Small IT
 
-This chapter provides an overview of TrueSight Pulse the perfect monitoring solution for small IT.
+This chapter provides an overview of TrueSight Pulse monitoring solution and its applicabilty in
+supporting Small IT.
 
 ## What is TrueSight Pulse?
 
-## Windows and Linux Servers
+### Windows and Linux Servers
 
-### Is System Running?
+#### Our My Systems Running?
 
 ## Amazon Web Services
 
-## Web Page Monitoring
+### Web Page Monitoring
 
 ### External Services
 
@@ -18,7 +19,8 @@ This chapter provides an overview of TrueSight Pulse the perfect monitoring solu
 ## Getting What You Paid For
 
 ### Hosting
-If you have a single server that is collcated are you sure that you getting what you paid for?
+
+If you have a single server that is collocated are you sure that you getting what you paid for?
 
 ### Network Bandwidth
 

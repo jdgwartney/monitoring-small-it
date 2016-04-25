@@ -3,11 +3,11 @@
 #
 
 chapters=*.md
-book_file=book.pdf
+book=monitoring-small-it.pdf
 
-book.pdf: $(chapters)
-	pandoc -f markdown -o book.pdf $?
+$(book): $(chapters)
+	pandoc -f markdown -o $(book) $?
 
 clean:
-	$(RM) $(book_file)
+	$(RM) $(book)
 
